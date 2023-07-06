@@ -1,0 +1,16 @@
+{
+  "name": "com.rslashsp.ycamera",
+  "displayName": "YCamera",
+  "version": "0.0.1",
+  "description": "A quick camera prefab that utilizes cinemachine and NIS",
+  "keywords": [
+    "camera"
+  ],
+  "category": "cinematography",
+  "dependencies": {
+    "com.unity.test-framework": "1.1.31",
+    "com.unity.cinemachine": "2.8.9",
+    "com.unity.inputsystem": "1.4.4"
+  },
+  "type": "sample"
+}
